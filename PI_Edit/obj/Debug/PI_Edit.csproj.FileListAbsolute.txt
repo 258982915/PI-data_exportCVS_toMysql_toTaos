@@ -1,0 +1,51 @@
+E:\Document\Visual Studio 2008\Projects\PI_Edit\PI_Edit\bin\Debug\PI_Edit.exe
+E:\Document\Visual Studio 2008\Projects\PI_Edit\PI_Edit\bin\Debug\PI_Edit.pdb
+E:\Document\Visual Studio 2008\Projects\PI_Edit\PI_Edit\obj\Debug\ResolveAssemblyReference.cache
+E:\Document\Visual Studio 2008\Projects\PI_Edit\PI_Edit\obj\Debug\PI_Edit.Form1.resources
+E:\Document\Visual Studio 2008\Projects\PI_Edit\PI_Edit\obj\Debug\PI_Edit.Properties.Resources.resources
+E:\Document\Visual Studio 2008\Projects\PI_Edit\PI_Edit\obj\Debug\PI_Edit.csproj.GenerateResource.Cache
+E:\Document\Visual Studio 2008\Projects\PI_Edit\PI_Edit\obj\Debug\PI_Edit.exe
+E:\Document\Visual Studio 2008\Projects\PI_Edit\PI_Edit\obj\Debug\PI_Edit.pdb
+E:\Document\Visual Studio 2008\Projects\PI_Edit\PI_Edit\obj\Debug\PI_Edit.GetPIPoints.resources
+E:\Document\Personal\blog\PI_Edit\PI_Edit\obj\Debug\PI_Edit.exe
+E:\Document\Personal\blog\PI_Edit\PI_Edit\obj\Debug\PI_Edit.pdb
+E:\Document\Personal\blog\PI_Edit\PI_Edit\obj\Debug\ResolveAssemblyReference.cache
+E:\Document\Personal\blog\PI_Edit\PI_Edit\obj\Debug\PI_Edit.Form1.resources
+E:\Document\Personal\blog\PI_Edit\PI_Edit\obj\Debug\PI_Edit.Properties.Resources.resources
+E:\Document\Personal\blog\PI_Edit\PI_Edit\obj\Debug\PI_Edit.csproj.GenerateResource.Cache
+E:\Document\Personal\blog\PI_Edit\PI_Edit\bin\Debug\PI_Edit.exe
+E:\Document\Personal\blog\PI_Edit\PI_Edit\bin\Debug\PI_Edit.pdb
+C:\Users\lenovo\Downloads\Connect to PI\PI_Edit\PI_Edit\bin\Debug\PI_Edit.exe
+C:\Users\lenovo\Downloads\Connect to PI\PI_Edit\PI_Edit\bin\Debug\PI_Edit.pdb
+C:\Users\lenovo\Downloads\Connect to PI\PI_Edit\PI_Edit\bin\Debug\Interop.PISDK.dll
+C:\Users\lenovo\Downloads\Connect to PI\PI_Edit\PI_Edit\bin\Debug\Interop.PISDKCommon.dll
+C:\Users\lenovo\Downloads\Connect to PI\PI_Edit\PI_Edit\bin\Debug\Interop.PISDKDlg.dll
+C:\Users\lenovo\Downloads\Connect to PI\PI_Edit\PI_Edit\bin\Debug\Interop.PITimeServer.dll
+C:\Users\lenovo\Downloads\Connect to PI\PI_Edit\PI_Edit\obj\Debug\Interop.PISDK.dll
+C:\Users\lenovo\Downloads\Connect to PI\PI_Edit\PI_Edit\obj\Debug\Interop.PISDKCommon.dll
+C:\Users\lenovo\Downloads\Connect to PI\PI_Edit\PI_Edit\obj\Debug\Interop.PISDKDlg.dll
+C:\Users\lenovo\Downloads\Connect to PI\PI_Edit\PI_Edit\obj\Debug\Interop.PITimeServer.dll
+C:\Users\lenovo\Downloads\Connect to PI\PI_Edit\PI_Edit\obj\Debug\PI_Edit.csproj.ResolveComReference.cache
+C:\Users\lenovo\Downloads\Connect to PI\PI_Edit\PI_Edit\obj\Debug\PI_Edit.Form1.resources
+C:\Users\lenovo\Downloads\Connect to PI\PI_Edit\PI_Edit\obj\Debug\PI_Edit.Properties.Resources.resources
+C:\Users\lenovo\Downloads\Connect to PI\PI_Edit\PI_Edit\obj\Debug\PI_Edit.csproj.GenerateResource.Cache
+C:\Users\lenovo\Downloads\Connect to PI\PI_Edit\PI_Edit\obj\Debug\PI_Edit.exe
+C:\Users\lenovo\Downloads\Connect to PI\PI_Edit\PI_Edit\obj\Debug\PI_Edit.pdb
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\bin\Debug\PI_Edit.exe.config
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\bin\Debug\PI_Edit.exe
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\bin\Debug\PI_Edit.pdb
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\bin\Debug\FastColoredTextBox.xml
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\bin\Debug\Interop.PISDK.dll
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Debug\Interop.PISDK.dll
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Debug\Interop.PISDKCommon.dll
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Debug\Interop.PISDKDlg.dll
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Debug\Interop.PITimeServer.dll
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Debug\PI_Edit.csproj.ResolveComReference.cache
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Debug\PI_Edit.Form1.resources
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Debug\PI_Edit.Properties.Resources.resources
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Debug\PI_Edit.csproj.GenerateResource.cache
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Debug\PI_Edit.csproj.CoreCompileInputs.cache
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Debug\PI_Edit.csproj.CopyComplete
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Debug\PI_Edit.exe
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Debug\PI_Edit.pdb
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Debug\PI_Edit.csproj.Fody.CopyLocal.cache

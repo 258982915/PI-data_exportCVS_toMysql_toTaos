@@ -1,0 +1,17 @@
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\bin\Release\PI_Edit.exe.config
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\bin\Release\PI_Edit.exe
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\bin\Release\FastColoredTextBox.xml
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\bin\Release\Interop.PISDK.dll
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Release\PI_Edit.csprojAssemblyReference.cache
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Release\Interop.PISDK.dll
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Release\Interop.PISDKCommon.dll
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Release\Interop.PISDKDlg.dll
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Release\Interop.PITimeServer.dll
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Release\PI_Edit.csproj.ResolveComReference.cache
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Release\PI_Edit.Form1.resources
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Release\PI_Edit.Properties.Resources.resources
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Release\PI_Edit.csproj.GenerateResource.cache
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Release\PI_Edit.csproj.CoreCompileInputs.cache
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Release\PI_Edit.csproj.Fody.CopyLocal.cache
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Release\PI_Edit.csproj.CopyComplete
+C:\Users\Ayorro\Desktop\PI_Edit\PI_Edit\obj\Release\PI_Edit.exe
